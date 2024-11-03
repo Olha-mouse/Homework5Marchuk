@@ -1,0 +1,31 @@
+input {
+    text-align: left;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  
+border-radius: 5px;
+border:1px solid #EAEAEA;
+}
+
+p, div {
+    text-align: center;
+    color: rgb(10, 20, 10);
+}
+
+p span {
+    color: green;
+}
+
+button {
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.button-green {
+    width: 26%; background-color:rgb(41, 180, 71);color: aliceblue;margin: 0 auto;
+
+}
